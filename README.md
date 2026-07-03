@@ -8,9 +8,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](www.linkedin.com/in/pranavnair999)
-[![Gmail](nairpranavprakash@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavnair999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavnair999/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nairpranavprakash@gmail.com)
+
 
 </div>
 
@@ -20,7 +22,7 @@
 
 I'm currently in my third year of engineering, and somewhere along the way MERN stack development turned from a "let's see what this is" into something I genuinely enjoy spending my evenings on.
 
-I'm not big on just following tutorials and moving on — I'd rather build something practical, break it, figure out why it broke, and fix it. That's usually where the real learning happens for me. Every project I take on is really just an excuse to get a little better at this than I was last month.
+Every project I take on is really just an excuse to get a little better at this than I was last month.
 
 Still figuring a lot out, still making mistakes, still here for it.
 
@@ -28,10 +30,9 @@ Still figuring a lot out, still making mistakes, still here for it.
 
 ## What I'm Into
 
-- 🌱 Currently deepening my hands-on experience with **React, Node.js, Express, and MongoDB**
-- 🔨 Learning best by building — practical projects over passive courses
-- 📚 Balancing coursework with side projects (the eternal struggle)
-- 🎯 Working toward being genuinely job-ready by the time I graduate
+-  Currently deepening my hands-on experience with **React, Node.js, Express, and MongoDB**
+-  Learning best by building — practical projects over passive courses
+-  Balancing coursework with side projects
 
 ---
 
@@ -75,8 +76,6 @@ Still figuring a lot out, still making mistakes, still here for it.
 <div align="center">
 
 If you're building something in the MERN space too, feel free to connect — always happy to talk shop or collaborate on something.
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
 
 </div>
 
