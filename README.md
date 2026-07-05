@@ -67,7 +67,7 @@ Still figuring a lot out, still making mistakes, still here for it.
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Project Name](https://github.com/yourusername/project1)** | Short, honest description — what problem it solves and why you built it | React, Node.js, MongoDB |
+| **[Expense Tracker](https://github.com/pranavnair999/React-app.git)** | A simple expense tracker built with React Hooks and Context API | React, Node.js, MongoDB |
 | **[Project Name](https://github.com/yourusername/project2)** | Short, honest description — what problem it solves and why you built it | Express, MongoDB, JWT |
 | **[Project Name](https://github.com/yourusername/project3)** | Short, honest description — what problem it solves and why you built it | MERN Stack |
 
