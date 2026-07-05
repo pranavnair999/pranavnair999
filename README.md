@@ -69,7 +69,7 @@ Still figuring a lot out, still making mistakes, still here for it.
 |---|---|---|
 | **[Expense Tracker](https://github.com/pranavnair999/React-app.git)** | A simple expense tracker built with React Hooks and Context API | React, Node.js, MongoDB |
 | **[Spotify Clone](https://github.com/pranavnair999/Spotify-Clone.git)** |A Spotify clone built with React, featuring playlist browsing, music playback controls | React JS |
-| **[Project Name](https://github.com/yourusername/project3)** | Short, honest description — what problem it solves and why you built it | MERN Stack |
+| **[Visistor Pass System](https://github.com/pranavnair999/visitor-pass-management-system.git)** | A MERN Stack Visitor Pass Management System built to replace traditional paper log | MERN Stack |
 
 ---
 
