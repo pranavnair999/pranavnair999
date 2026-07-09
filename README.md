@@ -70,7 +70,7 @@ Still figuring a lot out, still making mistakes, still here for it.
 
 <div align="center">
 
-If you're building something in the MERN space too, feel free to connect — always happy to talk shop or collaborate on something.
+If you're building something in the MERN space too, feel free to connect.. always happy to talk shop or collaborate on something.
 
 </div>
 
