@@ -64,7 +64,7 @@ Still figuring a lot out, still making mistakes, still here for it.
 |---|---|---|
 | **[Expense Tracker](https://github.com/pranavnair999/React-app.git)** | A simple expense tracker built with React Hooks and Context API | React, Node.js, MongoDB |
 | **[Spotify Clone](https://github.com/pranavnair999/Spotify-Clone.git)** |A Spotify clone built with React, featuring playlist browsing, music playback controls | React JS |
-| **[GEN-AI](https://github.com/pranavnair999/Gen-Ai.git)** | Resume analyser, reviewer and ats score improver | MERN Stack |
+| **[GEN](https://github.com/pranavnair999/Gen-Ai.git)** | Resume analyser, reviewer and ats score improver | MERN Stack |
 
 ---
 
