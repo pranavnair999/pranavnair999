@@ -58,7 +58,7 @@ Still figuring a lot out, still making mistakes, still here for it.
 
 ---
 
-## Projects
+## Projects I've build
 
 | Project | What it does | Built with |
 |---|---|---|
